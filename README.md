@@ -8,6 +8,8 @@
 Can be installed like usual by installing the addons _.zip_ archive through the Blender preferences window.
 The addon adds a "Quadsphere" option to the `3D View > Add > Mesh` menu
 
+![](images/menu.png)
+
 ## Downloads
 
 Download `QuadsphereAddon.zip` from [releases](https://github.com/xDUDSSx/quadsphere-blender-addon/releases).  
